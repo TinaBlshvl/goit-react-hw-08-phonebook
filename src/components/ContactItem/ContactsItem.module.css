@@ -1,0 +1,12 @@
+.contact {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.btn {
+  background-color: rgb(153, 126, 220);
+  color: aliceblue;
+  font-size: 18px;
+  padding: 5px 10px;
+  border-radius: 10px;
+}

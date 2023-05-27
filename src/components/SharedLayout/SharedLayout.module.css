@@ -1,0 +1,40 @@
+.home {
+  list-style: none;
+  text-decoration: none;
+  color: rgb(74, 74, 236);
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+
+.register {
+  color: white;
+  background-color: rgb(74, 74, 236);
+  font-size: 20px;
+  padding: 10px;
+  list-style: none;
+  text-decoration: none;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+.div {
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+.user {
+  font-size: 25px;
+  margin-left: 25px;
+  font-weight: 600;
+}
+
+.button {
+  background-color: rgb(74, 74, 236);
+  color: aliceblue;
+  font-size: 18px;
+  padding: 5px 10px;
+  border-radius: 10px;
+  border: none;
+  margin-left: 50px;
+}
