@@ -7,7 +7,6 @@ import { selectAuthError, selectIsLoggedIn } from 'redux/auth/selectors';
 
 import SignUpForm from 'components/Forms/SignUpForm/SignUpForm';
 import { toast } from 'react-toastify';
-import css from '../components/App/App.module.css';
 
 const SignUpPage = () => {
   const dispatch = useDispatch();
@@ -35,7 +34,6 @@ const SignUpPage = () => {
     <main>
       <section>
         <div>
-          <h1 className={css.hidden}>Register page</h1>
           {error !== null && <p>Oops, some error occured... {error}</p>}
           <SignUpForm onSubmit={handleRegister} />
         </div>

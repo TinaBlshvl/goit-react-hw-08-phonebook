@@ -1,14 +1,17 @@
+import css from './Pages.module.css';
+
 const HomePage = () => {
   return (
     <main>
       <section>
-        <div>
+        <div className={css.container}>
           <h1>Phone book</h1>
-          <p>
-            Everything you need to manage your contacts. The application will
-            help you quickly find the desired contact and keep order in your
-            address book.
-          </p>
+          <div className={css.textContainer}>
+            <p className={css.titleText}>
+              This application will help you record your contacts with ease,
+              save them and delete them at the right time! Enjoy!
+            </p>
+          </div>
         </div>
       </section>
     </main>

@@ -1,0 +1,23 @@
+.titleText {
+  font-size: 50px;
+  font-weight: 600;
+  color: rgb(74, 74, 236);
+  margin-top: 25px;
+  width: 1000px;
+  text-align: center;
+}
+
+.textContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contactsTitle {
+  margin-top: 25px;
+}
+
+.noContacts {
+  font-size: 18px;
+  margin-top: 15px;
+}
