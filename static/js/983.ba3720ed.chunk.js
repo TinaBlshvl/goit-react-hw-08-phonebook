@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[983],{3983:function(e,n,o){o.r(n);var r=o(184);n.default=function(){return(0,r.jsx)("main",{children:(0,r.jsx)("section",{children:(0,r.jsxs)("div",{children:[(0,r.jsx)("h1",{children:"Phone book"}),(0,r.jsx)("p",{children:"Everything you need to manage your contacts. The application will help you quickly find the desired contact and keep order in your address book."})]})})})}}}]);
-//# sourceMappingURL=983.ba3720ed.chunk.js.map
